@@ -1,6 +1,3 @@
-// @see
-// https://zenn.dev/miruoon_892/articles/365675fa5343ed#method-decorators%3A-%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89%E3%83%BB%E3%83%87%E3%82%B3%E3%83%AC%E3%83%BC%E3%82%BF
-
 type Direction = '←' | '↖' | '↑' | '↗' | '→' | '↘' | '↓' | '↙';
 
 type Piece = {
